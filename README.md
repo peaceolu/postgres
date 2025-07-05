@@ -27,3 +27,15 @@ bash
 Copy code
 node index.js
 ```
+
+
+
+4. ### TEST ENDPOINTS USING NODEMAN
+
+| Method | Endpoint     | Description        |
+| ------ | ------------ | ------------------ |
+| GET    | `/users`     | Get all users      |
+| GET    | `/users/:id` | Get one user by ID |
+| POST   | `/users`     | Add a new user     |
+| PUT    | `/users/:id` | Update a user      |
+| DELETE | `/users/:id` | Delete a user      |
