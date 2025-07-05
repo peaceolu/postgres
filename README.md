@@ -21,6 +21,13 @@ CREATE TABLE users (
 
 
 
+Add .env with:
+DB_USER=postgres
+DB_HOST=localhost
+DB_NAME=demopost
+DB_PASS=oluomachi2468
+
+
 Run:
 
 bash
